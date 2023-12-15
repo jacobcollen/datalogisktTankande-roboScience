@@ -3,11 +3,7 @@
 
 ## Figma-skiss: https://www.figma.com/file/DbVIZuNRi9iBpe1XaMQ4hu/Untitled?type=whiteboard&node-id=0%3A1&t=cqYuLMvNdmLiOynK-1
 
-#Sammanfattning
-
-## Decomposition
-
-## Pattern recognition
+# Sammanfattning
 
 ## Decomposition
 
